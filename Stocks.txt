@@ -6,5 +6,10 @@ Infy
 TCS
 Rallis India
 
+<<<<<<< Updated upstream
 Liv52
 Becasule
+=======
+becausule - B12
+Liv52 
+>>>>>>> Stashed changes
